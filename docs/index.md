@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Li Lab @ BIOPIC
 
-You can use the [editor on GitHub](https://github.com/skybigjasonli/test.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Dr. Guoqiang Li received his B.S. in Biotechnology from Wuhan University in 2008, and Ph.D. in Genomics from Beijing Institute of Genomics, Chinese Academy of Sciences in 2014. He did his postdoctoral research at Ludwig Institute for Cancer Research, UC San Diego since 2015. He has been honored with multiple awards, including the Chinese Academy of Sciences President Award and Outstanding Graduate and Sanofi Pasteur and Beijing Institutes of Life Science Biomedical Prize in 2014. In 2021, he will join Peking University as a tenure-track Assistant Professor in Biomedical Pioneering Innovation Center (BIOPIC) and Beijing Advanced Innovation Center for Genomics (ICG).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dr. Li has been focusing on the mechanisms and technology development in the interaction of cancer and epigenomics, and achieved multiple accomplishments: demonstrated that E3 ligase adaptor SPOP promotes kidney tumorigenesis by acting as a critical regulatory hub, observed that abnormal DNA methylome often occurred in human embryos in assisted reproductive technology (ART) and then developed a patent to detect the DNA methylome instability before embryo implantation, developed a single-cell multi-omics technology that can jointly profile and delineate the heterogeneity of DNA Methylation and chromatin organization in single cells. Looking forward, his research group will use single-cell multi-omics and functional genomics to examine the mechanisms and functions of epigenetic modifications, 3D genome organization, and non-coding cis-regulatory elements in regulating gene expression, which will be the foundation to further understand gene regulation in cell fate decision, embryo development, and its dysregulation in variety of human diseases.
 
-### Markdown
+See the full [publications](https://scholar.google.com/citations?hl=en&user=xVy1jCUAAAAJ).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are hiring! Please see the [post](https://jekyllrb.com/) for more details.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skybigjasonli/test.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
